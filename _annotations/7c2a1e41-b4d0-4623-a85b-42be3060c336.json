@@ -1,0 +1,30 @@
+---
+canvas: "https://kramerius.cuni.cz/search/iiif/uuid:48b354b6-b505-11ec-8528-fa163e4ea95f/info.json"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Mosach Fluss",
+            "purpose": "commenting",
+            "creator": {
+                "id": "mjtecka",
+                "name": "Milan Jan\u00ed\u010dek"
+            },
+            "created": "2023-05-02T19:41:36.435Z",
+            "modified": "2023-05-02T19:41:49.387Z"
+        }
+    ],
+    "target": {
+        "source": "https://kramerius.cuni.cz/search/iiif/uuid:48b354b6-b505-11ec-8528-fa163e4ea95f/info.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"711.0425415039062,2399.306640625 332.90264892578125,2484.552001953125 120.88199615478516,2958.8662109375 138.3682403564453,3428.808837890625 612.6824340820312,3081.269775390625 933.9920654296875,2827.719482421875 1323.0609130859375,2672.529052734375 2584.255859375,2655.042724609375 2647.643310546875,2401.492431640625\"></polygon></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7c2a1e41-b4d0-4623-a85b-42be3060c336.json",
+    "motivation": "commenting"
+}
