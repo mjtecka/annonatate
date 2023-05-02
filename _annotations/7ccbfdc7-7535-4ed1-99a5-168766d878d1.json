@@ -1,0 +1,30 @@
+---
+canvas: "https://kramerius.cuni.cz/search/iiif/uuid:48b354b6-b505-11ec-8528-fa163e4ea95f/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Unser Frauen Thom kirch.",
+            "purpose": "describing",
+            "creator": {
+                "id": "mjtecka",
+                "name": "Milan Jan\u00ed\u010dek"
+            },
+            "created": "2023-05-02T19:38:18.606Z",
+            "modified": "2023-05-02T19:38:31.018Z"
+        }
+    ],
+    "target": {
+        "source": "https://kramerius.cuni.cz/search/iiif/uuid:48b354b6-b505-11ec-8528-fa163e4ea95f/info.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1500.1090087890625,2226.6298828125 1301.203125,2314.061279296875 1314.3177490234375,2550.12548828125 1421.4210205078125,2676.900634765625 1664.04248046875,2661.60009765625 1661.856689453125,2418.978515625 1648.7420654296875,2217.886962890625 1546.0103759765625,2215.701171875\"></polygon></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7ccbfdc7-7535-4ed1-99a5-168766d878d1.json",
+    "motivation": "commenting"
+}
