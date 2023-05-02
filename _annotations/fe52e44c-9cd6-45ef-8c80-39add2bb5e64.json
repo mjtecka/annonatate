@@ -1,0 +1,31 @@
+---
+canvas: "https://kramerius.cuni.cz/search/iiif/uuid:7094704e-e42c-11ed-8427-fa163e4ea95f/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "this changed...",
+            "purpose": "commenting",
+            "creator": {
+                "id": "mjtecka",
+                "name": "Milan Jan\u00ed\u010dek"
+            },
+            "created": "2023-05-02T19:27:51.243Z",
+            "modified": "2023-05-02T19:27:53.498Z"
+        }
+    ],
+    "target": {
+        "source": "https://kramerius.cuni.cz/search/iiif/uuid:7094704e-e42c-11ed-8427-fa163e4ea95f/info.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1364.1766357421875,2456.550537109375,1371.2935791015625,639.376220703125"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fe52e44c-9cd6-45ef-8c80-39add2bb5e64.json",
+    "motivation": "commenting"
+}
