@@ -1,0 +1,30 @@
+---
+canvas: "https://kramerius.cuni.cz/search/iiif/uuid:48b354b6-b505-11ec-8528-fa163e4ea95f/info.json"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "S. Andre Coll: Stifft",
+            "purpose": "commenting",
+            "creator": {
+                "id": "mjtecka",
+                "name": "Milan Jan\u00ed\u010dek"
+            },
+            "created": "2023-05-02T19:39:40.413Z",
+            "modified": "2023-05-02T19:39:45.882Z"
+        }
+    ],
+    "target": {
+        "source": "https://kramerius.cuni.cz/search/iiif/uuid:48b354b6-b505-11ec-8528-fa163e4ea95f/info.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2050.925537109375,2296.574951171875 2029.0677490234375,2528.267578125 2053.111328125,2657.228515625 2304.47607421875,2641.92822265625 2265.1318359375,2314.061279296875 2160.214599609375,2296.574951171875\"></polygon></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c6471d8e-e1f3-4db8-b5ab-769633a9bfa5.json",
+    "motivation": "commenting"
+}
