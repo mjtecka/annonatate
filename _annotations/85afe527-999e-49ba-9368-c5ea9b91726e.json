@@ -1,0 +1,30 @@
+---
+canvas: "https://kramerius.cuni.cz/search/iiif/uuid:48b354b6-b505-11ec-8528-fa163e4ea95f/info.json"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "F\u00fcrstlich Schloss",
+            "purpose": "commenting",
+            "creator": {
+                "id": "mjtecka",
+                "name": "Milan Jan\u00ed\u010dek"
+            },
+            "created": "2023-05-02T19:38:54.509Z",
+            "modified": "2023-05-02T19:39:11.374Z"
+        }
+    ],
+    "target": {
+        "source": "https://kramerius.cuni.cz/search/iiif/uuid:48b354b6-b505-11ec-8528-fa163e4ea95f/info.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1932.8934326171875,2265.97412109375 1814.861328125,2379.634521484375 1738.3590087890625,2425.535888671875 1749.2879638671875,2683.4580078125 2013.767333984375,2655.042724609375 2011.58154296875,2416.792724609375 2013.767333984375,2248.48779296875 2009.395751953125,2241.930419921875\"></polygon></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "85afe527-999e-49ba-9368-c5ea9b91726e.json",
+    "motivation": "commenting"
+}
