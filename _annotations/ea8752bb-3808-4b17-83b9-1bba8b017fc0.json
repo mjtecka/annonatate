@@ -1,0 +1,34 @@
+---
+canvas: "https://herbarium.bgbm.org/iiif/canvas/1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "kv\u011bt",
+            "purpose": "commenting",
+            "creator": {
+                "id": "mjtecka",
+                "name": "Milan Jan\u00ed\u010dek"
+            },
+            "created": "2023-05-05T09:25:46.225Z",
+            "modified": "2023-05-05T09:25:47.002Z"
+        }
+    ],
+    "target": {
+        "source": "https://herbarium.bgbm.org/iiif/canvas/1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"3627.1572265625,648.3526000976562 3261.240966796875,831.632080078125 3363.5419921875,1183.5140380859375 3888.568603515625,1144.7158203125 4027.54052734375,788.9113159179688 3874.0224609375,706.5746459960938\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://herbarium.bgbm.org/object/B100732103/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ea8752bb-3808-4b17-83b9-1bba8b017fc0.json",
+    "motivation": "commenting"
+}
