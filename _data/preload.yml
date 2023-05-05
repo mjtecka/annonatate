@@ -1,4 +1,9 @@
 images:
+- added: '2023-05-05 09:24:02.588484'
+  iiif: true
+  thumbnail: https://pictures.bgbm.org/digilib/digilib.html?fn=Willing/GR/2017/04/10/2017-04-10_243.jpg
+  title: Valeriana asarifolia Dufr.
+  url: https://herbarium.bgbm.org/object/B100732103/manifest.json
 - added: '2023-05-02 19:36:21.491107'
   iiif: true
   thumbnail: https://kramerius.cuni.cz/search/iiif/uuid:48b354b6-b505-11ec-8528-fa163e4ea95f/full/120,/0/default.jpg
