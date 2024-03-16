@@ -9,10 +9,5 @@ images:
   thumbnail: https://kramerius.cuni.cz/search/iiif/uuid:48b354b6-b505-11ec-8528-fa163e4ea95f/full/120,/0/default.jpg
   title: ''
   url: https://kramerius.cuni.cz/search/iiif/uuid:48b354b6-b505-11ec-8528-fa163e4ea95f/info.json
-- null
-manifests: []
-settings:
-  tempuser: notenabled
-  viewer: default
-  widgets: comment-with-purpose, tag, geotagging
-version: '2.0'
+settings: {}
+version: '2.1'
